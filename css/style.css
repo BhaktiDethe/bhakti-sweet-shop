@@ -1,21 +1,50 @@
-body{
+.body{
     background-color: #fef6e4;
 }
-.page-heading{
-    margin: 50px auto;
+.bg-light{
+    background-color: #fef6e4;
+}
+.pg-primary{
+    background-color:#f582ae ;
+}
+.bg-secondary{
+    background-color: #8bd3dd;
+}
+.text-primary{
+    background-color:#f582ae ;
+}
+.text-secondary{
+    background-color: #8bd3dd;
+}
+.text-dark{
     color: #001858;
+}
+.text-center{
     text-align: center;
 }
-.button-container{
-    display: flex;
-    justify-content: center;
-}
-.my-buttons
-{
-    background-color: #f582ae;
-    margin:0 30px;
+.btn{
+
     padding: 10px 30px;
-    width:150px;
-    border-radius: 40px;
-    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    cursor:pointer;
+    box-shadow: 0 15px 15px #f3d2c1;
+    color: #001858;
 }
+.btn-primary{
+    background-color: #f582ae;
+    color: #001858;
+}
+ .btn-secondary{
+    background-color: #8bd3dd;
+    color: #001858;
+ }
+ .no-underline{
+    text-decoration: none;
+ }
+ .color{
+    color: #001858;
+ }
+  .no-underline{
+    text-decoration: none;
+  }
