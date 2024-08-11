@@ -1,5 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Gupter:wght@400;500;700&family=Kalnia+Glaze:wght@100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 .body{
     background-color: #fef6e4;
+    margin: 0;
+    padding: 0;
+    
+}
+.dancing-script{
+    font-family: "dancing script",cursive;
 }
 .bg-light{
     background-color: #fef6e4;
@@ -47,4 +56,7 @@
  }
   .no-underline{
     text-decoration: none;
+  }
+  .fs-50{
+    font-size: 50px;
   }
