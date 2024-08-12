@@ -60,3 +60,48 @@
   .fs-50{
     font-size: 50px;
   }
+  .menu-card{
+    background-color: #fff;
+    width:150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius:10px;
+    box-shadow:-5px 5px  10px 1px  #010d2c;
+    border: 1px solid pink;
+    
+  }
+  .menu-icon{
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+  }
+  .menu-title{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  .menu-description{
+    font-size: 12px;
+    margin-top:0px;
+
+  }
+  .menu-order-btn{
+    background-color: rgb(222, 105, 124);
+    color: #fff;
+  border: none;
+  border-radius: 15px;
+  padding: 1px 10px;
+  display: block;
+  margin: 5px auto;
+  }
+  .menu-order-btn:hover{
+    transition: 0.5s;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  .menu-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
