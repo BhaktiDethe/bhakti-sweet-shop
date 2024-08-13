@@ -67,8 +67,14 @@
     margin: 10px;
     border-radius:10px;
     box-shadow:-5px 5px  10px 1px  #010d2c;
-    border: 1px solid pink;
+    border: 1px solid rgb(18, 8, 10);
     
+  }
+  .menu-card:hover{
+    transition: 0.5s;
+    border-radius: 25px;
+    cursor: pointer;
+
   }
   .menu-icon{
     height: 100px;
@@ -95,13 +101,13 @@
   display: block;
   margin: 5px auto;
   }
-  .menu-order-btn:hover{
-    transition: 0.5s;
-    border-radius: 25px;
-    cursor: pointer;
-  }
+  
   .menu-container{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    height:300px;
+    width:1500px;
+    display:flex;
+   flex-direction:row;
+   margin:10px 100px;
+   padding:100px;
+  
   }
