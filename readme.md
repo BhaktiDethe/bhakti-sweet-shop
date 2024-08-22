@@ -3,15 +3,15 @@
 ## cake shop !
 
 
-Discover the future of furniture shopping with Decor den, an innovative `open-source` project designed to revolutionize the way you browse, select, and purchase furniture. Built with cutting-edge web technologies like `HTML, CSS` Decor den offers a seamless and engaging user experience.
+Discover the future of cakeshop shopping with Decor den, an innovative `open-source` project designed to revolutionize the way you browse, select, and purchase furniture. Built with cutting-edge web technologies like `HTML, CSS` Decor den offers a seamless and engaging user experience.
 
-![HomePage](./img/cake%20shop.jpg)
+![HomePage](./img/123.jpeg)
 
-![HomePage](./index.html)
+![HomePage](./img/meues/toffee%20choco.png)
 
-![HomePage](./page/about.html)
+![HomePage](./img/6.jpeg)
 
-![HomePage](./images/githubimg/img3.png)
+![HomePage](./img/egglesscake.jpg)
 
 ![HomePage](./images/githubimg/img5.png)
 
