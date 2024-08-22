@@ -7,9 +7,9 @@ Discover the future of furniture shopping with Decor den, an innovative `open-so
 
 ![HomePage](./img/cake%20shop.jpg)
 
-![HomePage](./img/cake%20shop.jpg.png)
+![HomePage](./index.html)
 
-![HomePage](./images/githubimg/img4.png)
+![HomePage](./page/about.html)
 
 ![HomePage](./images/githubimg/img3.png)
 
