@@ -106,9 +106,10 @@
   box-shadow: 0 0 10px 3px #808080
 }
 .why-choose-us-img{
-  height: 60px;
+  height: 40px;
   display: block;
   margin: 10px auto;
+  border: 1px solid rgb(18, 8, 10);
 }
 .header-section{
   display: flex;
@@ -116,21 +117,3 @@
 .header-img-container{
   width: 50%;
 }
-.header-description-container{
-  width: 50%;
-  padding: 20px;
-}
-.header-img{
-   height: 250px;
-   border: 10px solid  #f582ae;
-   display: block;
-   margin: 20px auto;
-   
-}
-.menu-card{
-  background-color: #fff;
-  width: 150px;
-  padding: 10px;
-  margin: 10px;
-}
-
