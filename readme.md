@@ -13,10 +13,10 @@ Discover the future of cakeshop shopping with Decor den, an innovative `open-sou
 
 ![HomePage](./img/egglesscake.jpg)
 
-![HomePage](./images/githubimg/img5.png)
+![HomePage](./images/githubimg/1.png)
 
 ### Key Features:
-- <b>Modern Design</b>: Enjoy a clean, stylish `interface` that makes furniture shopping a pleasure.
+- <b>Modern Design</b>: Enjoy a clean, stylish `interface. that makes furniture shopping a pleasure.
 
 - <b>Responsive Layout</b>: Perfectly optimized for all devices, ensuring a smooth experience whether you’re on a desktop, tablet, or smartphone.
 
@@ -39,7 +39,4 @@ Does this capture what you had in mind? Feel free to let me know if you’d like
 ## Contributors
 
 <a href="https://github.com/BhaktiDethe/bhakti-sweet-shop">
-  
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
